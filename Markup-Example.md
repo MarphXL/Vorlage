@@ -103,9 +103,9 @@ bomb | :bomb:
 :copyright:	®️	:registered:	top
 top	™️	:tm:
 
-:lock::lock:
-:key::key:
-:gear::gear:
+:lock | :lock:
+:key | :key:
+:gear | :gear:
 eye_speech_bubble | :eye_speech_bubble:
 thought_balloon | :thought_balloon:
 speech_balloon | :speech_balloon:
@@ -115,38 +115,38 @@ thumbsup | :thumbsup:
 thumbsdown | :thumbsdown:
 point_right	| :point_right:	
 fu | :fu:
-:eyes:
+Augen  | :eyes:
 
 email | :email:
 green_book | :green_book:
 
-:open_file_folder::open_file_folder:
-:calendar::calendar:
+Verzeichnis  | :open_file_folder:
+Kalender | :calendar:
 
-:beer:
-:house:
-:stopwatch:
-:hourglass_flowing_sand:
-:thermometer:
-:art:
+Bier | :beer:
+Home | :house:
+Stoppuhr | :stopwatch:
+Sanduhr | :hourglass_flowing_sand:
+Hitze | :thermometer:
+Bild | :art:
 
-:loud_sound:
-:mute:
-:battery:
+Sound | :loud_sound:
+Mue | :mute:
+Batterie | :battery:
 
-:arrow_up::arrow_up:
-:arrows_counterclockwise::arrows_counterclockwise:
-:soon::soon:
-:twisted_rightwards_arrows::twisted_rightwards_arrows:
-:vs::vs:
-ok | :ok:
-:new::new:
+Pfeil hoch | :arrow_up::arrow_up:
+arrows_counterclockwise | :arrows_counterclockwise:
+Soon | :soon:
+twisted_rightwards_arrows | :twisted_rightwards_arrows:
+Versus | :vs:
+OK | :ok:
+Neu | :new:
 a | :a:
 d | :d:
-:red_circle::red_circle:
-:red_square::red_square:
+red_circle | :red_circle:
+red_square | :red_square:
 
-:triangular_flag_on_post::triangular_flag_on_post:
+triangular_flag_on_post | :triangular_flag_on_post:
 
-:atom:
+Atom | :atom:
 
