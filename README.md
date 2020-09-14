@@ -59,8 +59,11 @@ Format: ![Alt Text](url)
 
 ## Credits
 
-* :+1: @adafruit
-@ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* :+1: [arduino](https://github.com/arduino)
+* :+1: [adafruit](https://github.com/adafruit)
+* :+1: [sparkfun]((https://github.com/sparkfun)
+* :+1: [Watterott](https://github.com/watterott) and @awatterott for great SW, HW and products
+* :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Vorlagen
 
