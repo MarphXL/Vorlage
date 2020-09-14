@@ -1,8 +1,19 @@
  
-# CD74HC4067 - 16-Channel Analog/Digital Multiplexer/Demultiplexer 
-https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3
-[Überschrift](#%C3%BCberschrift-3)
-[Überschrift](https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3)
+# CD74HC4067 - 16-Channel Analog/Digital Multiplexer/Demultiplexer
+
+## Tasklist
+- [x] Beschreibung
+- [x] Technische Daten
+- [x] Inhaltsverzeichnis
+- [ ] Hardware
+ - [ ] PCB
+ - [ ] Schematic
+- [ ] Software
+- [ ] 3D
+
+1. https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3
+1. [Überschrift](#%C3%BCberschrift-3)
+1. [Überschrift](https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3)
 
 #### Überschrift 4
 ##### Überschrift 5
@@ -13,7 +24,7 @@ This is a breakout board for the very handy 16-Channel Analog/Digital Multiplexe
 Since the mux/demux also works with digital signals, you can use it to pipe TTL-level serial data to or from multiple devices. For example, you could use it to connect the TX pins of 16 devices to one RX pin on your microcontroller. You can then select any one of those 16 devices to listen to. If you want two-way communications, you can add a second board to route your microcontroller's TX line to 16 device's RX lines. By using multiple boards, you can create similar arrangements for I2C, SPI, etc.
 The internal switches are bidirectional, support voltages between ground and VCC, have low “on” resistance and low “off” leakage, and to prevent crosstalk, perform “break-before-make” switching. The board also breaks out the chip's “enable” pin, which when driven high, will completely disconnect the common pin (all switches “off”).
  
-## Features:
+## Technische Daten
 2V to 6V operation
 “On” resistance: 70 Ohms @ 4.5V
 6ns break-before-make @ 4.5V
