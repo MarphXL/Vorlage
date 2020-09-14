@@ -28,10 +28,13 @@ Fettdruck **bold**
 Kursiv *italic* 
 
 
-## DatasheetTypisches
+## Datasheet
 [datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
 
-![Logo](https://avatars2.githubusercontent.com/u/34685300?s=60&v=4)
+## Where to buy
+~6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
+
+![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
 Format: ![Alt Text](url)
 
 # Listen
