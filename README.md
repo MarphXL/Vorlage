@@ -8,10 +8,10 @@
  1. [x] [Datasheet](#datasheet)
 
 1. [ ] Hardware
+ 1. [ ] EasyEDA PCB / Schematic
  1. [ ] Eagle PCB / Schematic
 1. [ ] Software
 1. [ ] 3D
-1. [x] Where to buy
 1. [x] [Where to buy](#Where-to-buy)
 1. [x] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
@@ -84,10 +84,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-
-# Emojis
-:+1:
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 # Tabellen
 First Header | Second Header
