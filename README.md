@@ -16,11 +16,6 @@
 1. [x] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
 
-
-#### Überschrift 4
-##### Überschrift 5
-###### Überschrift 6
-
 ## Beschreibung
 This is a breakout board for the very handy 16-Channel Analog/Digital Multiplexer/Demultiplexer CD74HC4067. This chip is like a rotary switch - it internally routes the common pin (COM in the schematic, SIG on the board) to one of 16 channel pins (CHANxx). It works with both digital and analog signals (the voltage can't be higher than VCC), and the connections function in either direction. To control it, connect 4 digital outputs to the chip's address select pins (S0-S3), and send it the binary address of the channel you want (see the datasheet for details). This allows you to connect up to 16 sensors to your system using only 5 pins!
 Since the mux/demux also works with digital signals, you can use it to pipe TTL-level serial data to or from multiple devices. For example, you could use it to connect the TX pins of 16 devices to one RX pin on your microcontroller. You can then select any one of those 16 devices to listen to. If you want two-way communications, you can add a second board to route your microcontroller's TX line to 16 device's RX lines. By using multiple boards, you can create similar arrangements for I2C, SPI, etc.
@@ -38,11 +33,6 @@ Analog output: DIG
 Channel Control: S0-S3
 CD74HC4067
 
-Fettdruck **bold** 
-
-Kursiv *italic* 
-
-
 ## Datasheet
 * [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
 * [snapshot](https://github.com/MarphXL/Vorlage/blob/master/cd74hc4067.pdf)
@@ -52,20 +42,22 @@ Kursiv *italic*
 
 ## Abbildungen
 ![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
-Format: ![Alt Text](url)
-
 ![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_back.webp)
 
-
 ## Credits
-
 * :+1: [arduino](https://github.com/arduino)
 * :+1: [adafruit](https://github.com/adafruit)
-* :+1: [sparkfun]((https://github.com/sparkfun)
+* :+1: [sparkfun](https://github.com/sparkfun)
 * :+1: [Watterott](https://github.com/watterott) and @awatterott for great SW, HW and products
 * :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Vorlagen
+
+#### Überschrift 4
+##### Überschrift 5
+###### Überschrift 6
+Fettdruck **bold** 
+Kursiv *italic* 
 
 # Tabellen
 First Header | Second Header
@@ -91,12 +83,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-    
-
-
-# Username @mentions
-* :+1: @adafruit
-* :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Emojis
 :+1:
@@ -157,4 +143,3 @@ red_circle | :red_circle:
 purple_square | :purple_square:
 triangular_flag_on_post | :triangular_flag_on_post:
 Atom | :atom:
-
