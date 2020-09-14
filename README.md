@@ -51,7 +51,8 @@ Kursiv *italic*
 ~6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
 # Abbildungen
-[HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
+![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
+Format: ![Alt Text](url)
 
 # Credits
 
