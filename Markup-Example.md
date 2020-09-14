@@ -88,20 +88,21 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 # Tabellen
 First Header | Second Header
 ------------ | -------------
-:de::de:
-:pushpin::pushpin:
+Deutschland | :de:
+pushpin | :pushpin:
 bulb | :bulb:
 bomb | :bomb:
-:wastebasket::wastebasket:
-:warning::warning:
-:no_entry::no_entry:
-:question::question:
-:exclamation::exclamation:
-:x::x:
-:heavy_check_mark::heavy_check_mark:
+wastebasket | :wastebasket:
+warning: | warning:
+no_entry: | no_entry:
+question: | question:
+exclamation: | exclamation:
+x | :x:
+heavy_check_mark | :heavy_check_mark:
 
-:copyright:	®️	:registered:	top
-top	™️	:tm:
+copyright | :copyright:
+reg | :registered:
+eingetragenes Warenzeichen | :tm:
 
 :lock | :lock:
 :key | :key:
