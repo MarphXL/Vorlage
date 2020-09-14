@@ -14,7 +14,7 @@ Kursiv *italic*
 # Typisches
 Link [link to Google!](http://google.com)
 
-![GitHub Logo](/images/logo.png)
+![Logo](https://avatars2.githubusercontent.com/u/34685300?s=60&v=4)
 Format: ![Alt Text](url)
 
 # Listen
