@@ -59,6 +59,9 @@ Format: ![Alt Text](url)
 
 ## Credits
 
+* :+1: @adafruit
+@ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 # Vorlagen
 
 # Tabellen
