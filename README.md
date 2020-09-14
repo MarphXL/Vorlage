@@ -4,12 +4,11 @@
 ## Tasklist
 1. - [x] Beschreibung
 1. - [x] Technische Daten
-- [x] Inhaltsverzeichnis
-- [ ] Hardware
- - [ ] PCB
- - [ ] Schematic
-- [ ] Software
-- [ ] 3D
+1. - [x] Inhaltsverzeichnis
+1. - [ ] Hardware
+ 1. - [ ] Eagle PCB / Schematic
+1. - [ ] Software
+1. [ ] 3D
 
 1. https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3
 1. [Überschrift](#%C3%BCberschrift-3)
