@@ -85,12 +85,15 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 :+1:
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-* bomb :bomb:
-* eye_speech_bubble :eye_speech_bubble:
-* thought_balloon :thought_balloon:
-* speech_balloon :speech_balloon:
-* vulcan_salute :vulcan_salute:
-* ok_hand :ok_hand:
+# Tabellen
+First Header | Second Header
+------------ | -------------
+bomb | :bomb:
+eye_speech_bubble | :eye_speech_bubble:
+thought_balloon | :thought_balloon:
+speech_balloon | :speech_balloon:
+vulcan_salute | :vulcan_salute:
+ok_hand | :ok_hand:
 
 
 
