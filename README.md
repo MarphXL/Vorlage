@@ -1,20 +1,21 @@
  
 # CD74HC4067 - 16-Channel Analog/Digital Multiplexer/Demultiplexer
 
-## Tasklist
+## Inhaltsverzeichnis
+1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [x] [Beschreibung](#Beschreibung)
-1. [x] Technische Daten
- 1. [x] Datasheet
-1. [x] Inhaltsverzeichnis
+1. [x] [Technische Daten](#technische-daten)
+ 1. [x] [Datasheet](#datasheet)
+
 1. [ ] Hardware
  1. [ ] Eagle PCB / Schematic
 1. [ ] Software
 1. [ ] 3D
 1. [x] Where to buy
 
-1. https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3
-1. [Überschrift](#%C3%BCberschrift-3)
-1. [Überschrift](https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3)
+1. [x] [#Abbildungen](#Abbildungen)
+1. [x] [Credits](#Credits)
+
 
 #### Überschrift 4
 ##### Überschrift 5
@@ -49,8 +50,10 @@ Kursiv *italic*
 ## Where to buy
 ~6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
+# Abbildungen
 [HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
 
+# Credits
 
 # Listen
 * Item 1
