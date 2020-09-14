@@ -2,8 +2,8 @@
 # CD74HC4067 - 16-Channel Analog/Digital Multiplexer/Demultiplexer
 
 ## Tasklist
-- [x] Beschreibung
-- [x] Technische Daten
+1. - [x] Beschreibung
+1. - [x] Technische Daten
 - [x] Inhaltsverzeichnis
 - [ ] Hardware
  - [ ] PCB
