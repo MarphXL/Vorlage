@@ -1,7 +1,9 @@
  
 # CD74HC4067 - 16-Channel Analog/Digital Multiplexer/Demultiplexer 
-## Überschrift 2
-### Überschrift 3
+https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3
+[Überschrift](#%C3%BCberschrift-3)
+[Überschrift](https://github.com/MarphXL/Vorlage/blob/master/README.md#%C3%BCberschrift-3)
+
 #### Überschrift 4
 ##### Überschrift 5
 ###### Überschrift 6
@@ -29,13 +31,14 @@ Kursiv *italic*
 
 
 ## Datasheet
-[datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
+[TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
+[snapshot](https://github.com/MarphXL/Vorlage/blob/master/cd74hc4067.pdf)
 
 ## Where to buy
 ~6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
-![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
-Format: ![Alt Text](url)
+[HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
+
 
 # Listen
 * Item 1
@@ -87,6 +90,8 @@ function fancyAlert(arg) {
       }
     }
     
+### Überschrift 3
+
 # Issue-Referenz
 #1
 mojombo#1
