@@ -49,6 +49,7 @@ CD74HC4067
 * :+1: [adafruit](https://github.com/adafruit)
 * :+1: [sparkfun](https://github.com/sparkfun)
 * :+1: [Watterott](https://github.com/watterott) and @awatterott for great SW, HW and products
+* :+1: [atom](https://github.com/atom) 
 * :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Vorlagen
@@ -73,7 +74,7 @@ As Kanye West said:
 
 # Inline code
 I think you should use an
-`<addr>` element here instead.
+`inline code` element here instead.
 
 # Syntax highlighting
 ```javascript
