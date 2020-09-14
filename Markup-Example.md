@@ -99,14 +99,12 @@ question: | question:
 exclamation: | exclamation:
 x | :x:
 heavy_check_mark | :heavy_check_mark:
-
 copyright | :copyright:
 reg | :registered:
 eingetragenes Warenzeichen | :tm:
-
-:lock | :lock:
-:key | :key:
-:gear | :gear:
+lock | :lock:
+key | :key:
+gear | :gear:
 eye_speech_bubble | :eye_speech_bubble:
 thought_balloon | :thought_balloon:
 speech_balloon | :speech_balloon:
@@ -117,24 +115,19 @@ thumbsdown | :thumbsdown:
 point_right	| :point_right:	
 fu | :fu:
 Augen  | :eyes:
-
 email | :email:
 green_book | :green_book:
-
 Verzeichnis  | :open_file_folder:
 Kalender | :calendar:
-
 Bier | :beer:
 Home | :house:
 Stoppuhr | :stopwatch:
 Sanduhr | :hourglass_flowing_sand:
 Hitze | :thermometer:
 Bild | :art:
-
 Sound | :loud_sound:
 Mue | :mute:
 Batterie | :battery:
-
 Pfeil hoch | :arrow_up::arrow_up:
 arrows_counterclockwise | :arrows_counterclockwise:
 Soon | :soon:
@@ -146,8 +139,6 @@ a | :a:
 d | :d:
 red_circle | :red_circle:
 red_square | :red_square:
-
 triangular_flag_on_post | :triangular_flag_on_post:
-
 Atom | :atom:
 
