@@ -88,7 +88,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 # Tabellen
 First Header | Second Header
 ------------ | -------------
-\:pushpin\: | :pushpin:
+pushpin | :pushpin:
 bulb | :bulb:
 bomb | :bomb:
 wastebasket | :wastebasket:
@@ -127,7 +127,7 @@ Bild | :art:
 Sound | :loud_sound:
 Mue | :mute:
 Batterie | :battery:
-Pfeil hoch | :arrow_up::arrow_up:
+Pfeil hoch | :arrow_up:
 arrows_counterclockwise | :arrows_counterclockwise:
 Soon | :soon:
 twisted_rightwards_arrows | :twisted_rightwards_arrows:
@@ -137,7 +137,7 @@ Neu | :new:
 a | :a:
 d | :d:
 red_circle | :red_circle:
-red_square | :red_square:
+purple_square | :purple_square:
 triangular_flag_on_post | :triangular_flag_on_post:
 Atom | :atom:
 
