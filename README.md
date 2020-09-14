@@ -49,8 +49,10 @@ The internal switches are bidirectional, support voltages between ground and VCC
 ~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
 ## Abbildungen
-![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
-![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_back.webp)
+![Front](https://raw.githubusercontent.com/MarphXL/Vorlage/master/images/folder_image.png)
+![Back](https://raw.githubusercontent.com/MarphXL/Vorlage/master/images/folder_image.png)
+![Front](images/folder_image.png)
+![Back](images/folder_image.png)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
