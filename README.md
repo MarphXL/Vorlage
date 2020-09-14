@@ -5,10 +5,10 @@
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [x] [Beschreibung](#Beschreibung)
 1. [x] [Technische Daten](#technische-daten)
-  1. [x] [Datasheet](#datasheet)
+   1. [x] [Datasheet](#datasheet)
 1. [ ] Hardware
-  1. [ ] EasyEDA
-  1. [ ] Eagle
+   1. [ ] EasyEDA
+   1. [ ] Eagle
 1. [ ] Software
 1. [ ] 3D
 1. [x] [Where to buy](#Where-to-buy)
