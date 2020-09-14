@@ -21,16 +21,23 @@ Since the mux/demux also works with digital signals, you can use it to pipe TTL-
 The internal switches are bidirectional, support voltages between ground and VCC, have low “on” resistance and low “off” leakage, and to prevent crosstalk, perform “break-before-make” switching. The board also breaks out the chip's “enable” pin, which when driven high, will completely disconnect the common pin (all switches “off”).
  
 ## Technische Daten
-2V to 6V operation
+`
 “On” resistance: 70 Ohms @ 4.5V
 6ns break-before-make @ 4.5V
-Wide operating temperature range: -55C to 125C
-Function: gathering all the way ADC 16 analog signals.
 Use CD74HC4067 16-channel analog signal switch
 Analog Input: C0-C15 16 channels
 Analog output: DIG
 Channel Control: S0-S3
-CD74HC4067
+Modell:Multiplexer/Demultiplexer
+Typ:74HC 4067
+Bauform:SO-24
+Temperaturbereich:-40 ... +85 °C
+Versorgungsspannung:2,0 ... 10,0 VDC
+Eingangsspannung Vi:0 ... 10 VDC
+Leistung:500 mW
+Eingangsspannung ViH:6,3 VDC
+Eingangsspannung ViL:0,5 VDC
+`
 
 ## Datasheet
 * [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
