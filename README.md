@@ -12,8 +12,8 @@
 1. [ ] Software
 1. [ ] 3D
 1. [x] Where to buy
-
-1. [x] [#Abbildungen](#Abbildungen)
+1. [x] [Where to buy](#Where to buy)
+1. [x] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
 
 
