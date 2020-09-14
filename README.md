@@ -50,39 +50,22 @@ Kursiv *italic*
 ## Where to buy
 ~6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
-# Abbildungen
+## Abbildungen
 ![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_front.webp)
 Format: ![Alt Text](url)
 
 ![HP4067](https://raw.githubusercontent.com/MarphXL/Vorlage/master/HP4067_back.webp)
 
 
-# Credits
+## Credits
 
-# Listen
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
-# Tasklist
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+# Vorlagen
 
 # Tabellen
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
    
 # Blockquotes
 As Kanye West said:
@@ -102,28 +85,12 @@ function fancyAlert(arg) {
   }
 }
 ```
-
-function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
     
-### Überschrift 3
 
-# Issue-Referenz
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
 
 # Username @mentions
-Typing an @ symbol, followed by a username
-
-# Automatic linking for URLs
-Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
-
-# Strikethrough
-Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+* :+1: @adafruit
+* :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Emojis
 :+1:
