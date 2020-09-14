@@ -36,8 +36,8 @@ bla
 ~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
 
 ## Abbildungen
-![Front](images/folder_image.png)
-![Back](images/folder_image.png)
+![Front](images/front.png)
+![Back](images/back.png)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
